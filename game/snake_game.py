@@ -1,5 +1,5 @@
 from random import randint
-class Game:
+class SnakeGame:
     def __init__(self,heigth,width,snake_length):
         self.heigth = heigth
         self.width = width

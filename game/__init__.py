@@ -1,2 +1,1 @@
-from .game import Game
-from .render import Render
+from .snake_game import SnakeGame
